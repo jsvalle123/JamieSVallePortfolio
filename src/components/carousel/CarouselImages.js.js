@@ -7,7 +7,7 @@ import {GoProject} from 'react-icons/go'
 import {FaArrowCircleDown} from 'react-icons/fa'
 import Hello from '../images/Hello.jpg'
 import Pencil from '../images/Pencil.jpg'
-import laptop1 from '../images/laptop1.jpg'
+import resume from '../docs/Resume.pdf'
 
  class CarouselImages extends Component {
      render(){
@@ -18,16 +18,16 @@ import laptop1 from '../images/laptop1.jpg'
                 <div  className={classes.image_container} >
                     <img className={classes.image} src={Hello}  alt="myImage"/>
                     <div  className={classes.h1}>
-                       <h1 >I'm Sachin</h1>
-                       <a href="https://drive.google.com/open?id=1UEYXr47N9yD_9JxY457Vul4BwRizNVfv" rel="opener noreferrer" target="_blank">VIEW CV   <FaArrowCircleDown/></a>
+                       <h1 >I'm Jaimie</h1>
+                       <a src={resume} alt="resume">   <FaArrowCircleDown/></a>
                     </div>
                 </div>
                 <div className={classes.image_container}>
                     <img className={classes.image} src={Pencil} alt="myImage"/>
                     <div  className={classes.h2}> 
-                    <h1> I love building</h1>
-                    <h1>THINGS!!</h1>
-                    <a href="https://github.com/mittalsam98" rel="opener noreferrer" target="_blank">VIEW PROJECTS   <GoProject/></a>
+                    <h1> Github</h1>
+                    <h1>MADNESS</h1>
+                    <a href="https://github.com/jsvalle123" rel="opener noreferrer" target="_blank">VIEW PROJECTS   <GoProject/></a>
                     </div>
                 </div>
                 {/* <div className={classes.image_container}>

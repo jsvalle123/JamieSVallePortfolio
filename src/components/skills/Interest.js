@@ -14,13 +14,13 @@ class Interest extends Component {
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.web}>
                 <h3>APP Develpoment</h3>
-                <p>I also have knowledge of flutter development and have experience in building android and IOS applications. I also have live app published on Google Play Store. </p>
+                <p>I also have knowledge in tsParticles.</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.app}>
                 <h3>Web Develpoment</h3>
-                <p>I am a full stack web developer(MERN) and build websites using HTML, CSS, Javascript, ReactJs.<br /> I have also good grasp on Node and NoSQL(MongoDb)</p>
+                <p>I am a full stack web developer(MERN) and build websites using HTML, CSS, Javascript, ReactJs.<br /> I have also good grasp on Node, NoSQL(MongoDb), and Sequelize(MySQL)</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>

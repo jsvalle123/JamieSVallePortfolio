@@ -11,8 +11,9 @@ class About extends Component {
                     <span  className={classes.head}>ABOUT ME</span>
                     <h2 className={classes.heading}>Who Am I?</h2>
                     <div className={classes.About}>
-                        <p> My name is SACHIN MITTAL and I am currently pursuing my degree in Bachelor of Technology in Computer Science and Engineering from Sant Longowal Institute of Engineering and Technology. I want to be a developer as I am interested in developing new things which excite me a lot. :)  </p>
-                         <p className={classes.br}>I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
+                        <p> My name is Samantha Valle and I am a novice coder with every intention to continue to learn as this industry evolves. I went from majoring in Forensic Anthropology
+             to reflecting much through-out this pandemic an soon to be completing my certification as a developer at UW. </p>
+                         <p className={classes.br}>I love exploring new technologies and staying on the latest trens, constantly seeking for new adventures whether in tech or in life.
  </p>
                     </div>
                 </ScrollAnimation>
