@@ -12,8 +12,8 @@ class About extends Component {
                     <h2 className={classes.heading}>Who Am I?</h2>
                     <div className={classes.About}>
                         <p> My name is Samantha Valle and I am a novice coder with every intention to continue to learn as this industry evolves. I went from majoring in Forensic Anthropology
-             to reflecting much through-out this pandemic an soon to be completing my certification as a developer at UW. </p>
-                         <p className={classes.br}>I love exploring new technologies and staying on the latest trens, constantly seeking for new adventures whether in tech or in life.
+             to reflecting much through-out this pandemic and completed a g month bootcamp to become certified as a Full Stack Web Developer </p>
+                         <p className={classes.br}>I love exploring new technologies and staying on the latest trends, constantly seeking for new adventures whether in tech or in life.
  </p>
                     </div>
                 </ScrollAnimation>

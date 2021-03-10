@@ -14,7 +14,7 @@ class Interest extends Component {
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.web}>
                 <h3>APP Develpoment</h3>
-                <p>I also have knowledge in tsParticles.</p>
+                <p>I also have knowledge in tsParticles, Algoithms, and am currently learning Python on my free time.</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
@@ -26,7 +26,7 @@ class Interest extends Component {
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.other}>
                 <h3>Other's Interest</h3>
-                <p>I also have decent hand in developing website with WordPress.<br /> Adobe Photoshop, Adobe Illustrator, MS Office, C++, Github are my other fields of interest. </p>
+                <p>I also have decent hand in developing website with WordPress.<br /> Adobe Photoshop, Heroku, and Github are my other fields of interest. </p>
               </div>
             </ScrollAnimation>
           </div>

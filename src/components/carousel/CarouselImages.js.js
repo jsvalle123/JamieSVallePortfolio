@@ -5,9 +5,9 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import "animate.css/animate.min.css"; 
 import {GoProject} from 'react-icons/go'
 import {FaArrowCircleDown} from 'react-icons/fa'
-import Hello from '../images/Hello.jpg'
-import Pencil from '../images/Pencil.jpg'
-import resume from '../docs/Resume.pdf'
+import Hello from '../images/pretty.jpg'
+import Books from '../images/istockphoto-532852345-612x612.jpg'
+import resume from '../docs/Samantha_sResume.pdf'
 
  class CarouselImages extends Component {
      render(){
@@ -19,11 +19,11 @@ import resume from '../docs/Resume.pdf'
                     <img className={classes.image} src={Hello}  alt="myImage"/>
                     <div  className={classes.h1}>
                        <h1 >I'm Jaimie</h1>
-                       <a src={resume} alt="resume">   <FaArrowCircleDown/></a>
+                       <a href={resume} alt="resume">   <FaArrowCircleDown/></a>
                     </div>
                 </div>
                 <div className={classes.image_container}>
-                    <img className={classes.image} src={Pencil} alt="myImage"/>
+                    <img className={classes.image} src={Books} alt="myImage"/>
                     <div  className={classes.h2}> 
                     <h1> Github</h1>
                     <h1>MADNESS</h1>

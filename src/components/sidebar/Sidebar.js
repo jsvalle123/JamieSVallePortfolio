@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import './Sidebar.css';
 import { HashLink as Link } from 'react-router-hash-link';
-import logo from '../images/My-logo4.ico'
+import me from '../images/portfolio.jpg';
 
 class Sidebar extends Component {
     render() {
        
         return (
             <div className="sidebar">
-                <img src={logo} />
+                <img src={me} />
                 <h1><Link smooth to="/#start" className="h1_links">Jaimie Valle</Link></h1>
                 <p style={{color:'black',fontWeight:'bold'}} className="email"> jsvalle123@aol.com</p>
                 <ul className="sidebar-nav">
