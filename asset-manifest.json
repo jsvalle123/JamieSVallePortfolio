@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactPortfolio-/static/css/main.e65cf9ad.chunk.css",
-    "main.js": "/ReactPortfolio-/static/js/main.62f291a7.chunk.js",
-    "main.js.map": "/ReactPortfolio-/static/js/main.62f291a7.chunk.js.map",
+    "main.js": "/ReactPortfolio-/static/js/main.d5abc911.chunk.js",
+    "main.js.map": "/ReactPortfolio-/static/js/main.d5abc911.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio-/static/js/runtime-main.997a3984.js",
     "runtime-main.js.map": "/ReactPortfolio-/static/js/runtime-main.997a3984.js.map",
     "static/css/2.51c4e8bb.chunk.css": "/ReactPortfolio-/static/css/2.51c4e8bb.chunk.css",
@@ -12,9 +12,9 @@
     "static/css/2.51c4e8bb.chunk.css.map": "/ReactPortfolio-/static/css/2.51c4e8bb.chunk.css.map",
     "static/css/main.e65cf9ad.chunk.css.map": "/ReactPortfolio-/static/css/main.e65cf9ad.chunk.css.map",
     "static/js/2.0ced757b.chunk.js.LICENSE.txt": "/ReactPortfolio-/static/js/2.0ced757b.chunk.js.LICENSE.txt",
-    "static/media/Samantha_sResume.37ad598f.pdf": "/ReactPortfolio-/static/media/Samantha_sResume.37ad598f.pdf",
+    "static/media/Jaimie Valle.a8e09bda.pdf": "/ReactPortfolio-/static/media/Jaimie Valle.a8e09bda.pdf",
     "static/media/istockphoto-532852345-612x612.04d64109.jpg": "/ReactPortfolio-/static/media/istockphoto-532852345-612x612.04d64109.jpg",
-    "static/media/portfolio.b3111959.jpg": "/ReactPortfolio-/static/media/portfolio.b3111959.jpg",
+    "static/media/meportfolio.b3111959.jpg": "/ReactPortfolio-/static/media/meportfolio.b3111959.jpg",
     "static/media/pretty.450ec2a9.jpg": "/ReactPortfolio-/static/media/pretty.450ec2a9.jpg"
   },
   "entrypoints": [
@@ -22,6 +22,6 @@
     "static/css/2.51c4e8bb.chunk.css",
     "static/js/2.0ced757b.chunk.js",
     "static/css/main.e65cf9ad.chunk.css",
-    "static/js/main.62f291a7.chunk.js"
+    "static/js/main.d5abc911.chunk.js"
   ]
 }
