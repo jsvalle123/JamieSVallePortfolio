@@ -14,7 +14,7 @@ class Interest extends Component {
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.web}>
                 <h3>APP Develpoment</h3>
-                <p>I also have knowledge in tsParticles, Algoithms, and am currently learning Python on my free time.</p>
+                <p>I also have knowledge in tsParticles, Algorithms, and am currently learning Python on my free time.</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>

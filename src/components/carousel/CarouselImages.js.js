@@ -7,7 +7,7 @@ import {GoProject} from 'react-icons/go'
 import {FaArrowCircleDown} from 'react-icons/fa'
 import Hello from '../images/pretty.jpg'
 import Books from '../images/istockphoto-532852345-612x612.jpg'
-import resume from '../docs/Samantha_sResume.pdf'
+import resume from '../docs/Jaimie Valle.pdf'
 
  class CarouselImages extends Component {
      render(){

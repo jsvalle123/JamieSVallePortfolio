@@ -9,8 +9,9 @@ class Sidebar extends Component {
         return (
             <div className="sidebar">
                 <img src={me} />
-                <h1><Link smooth to="/#start" className="h1_links">Jaimie Valle</Link></h1>
+                <h1><Link smooth to="/#start" className="h1_links">Jaimie Samantha Valle</Link></h1>
                 <p style={{color:'black',fontWeight:'bold'}} className="email"> jsvalle123@aol.com</p>
+                <p style={{color:'black',fontWeight:'bold'}} className="phoneNumber"> (682)279-0098</p>
                 <ul className="sidebar-nav">
                     <li className="sidebar-nav-items"><Link smooth to="/#about" className="links">About</Link></li>
                     <li className="sidebar-nav-items"><Link smooth to="/#education" className="links" >Education</Link></li>
