@@ -5,10 +5,13 @@ You also can contact me through LinkedIn and email.
 Feel free to see my Github as well!
 
 # Dependencies
-None
+ ReactTemplate
 
 # Usage
-![README](./Images/react.png)
+![README](./images/portfoliopage.jpg)
+Format: ![Alt Text](url)
+
+![README](./images/portfolio.jpg)
 Format: ![Alt Text](url)
 
 
